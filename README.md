@@ -6,4 +6,4 @@ How to use DropBox to store public images and files for use in ArcGIS Online
 <hr>
 <H1>Week 3</H1>
 City of Philadelphia ArcGIS Server Rest Service Directory
-<a href="http://gis.phila.gov/arcgis/rest/services/PhilaGov" target="_blank"> http://gis.phila.gov/arcgis/rest/services/PhilaGov</a>
+<a href="http://gis.phila.gov/arcgis/rest/services/PhilaGov" target="_new"> http://gis.phila.gov/arcgis/rest/services/PhilaGov</a>
