@@ -7,6 +7,6 @@ How to use DropBox to store public images and files for use in ArcGIS Online
 <H1>Week 3</H1>
 <h4 style="text-decoration: underline;">ArcGIS Rest Service Directories</h4><br>
 Historical Earthquakes and Hurricanes (Feature Server)
-<a href="https://services2.arcgis.com/No7KRrFgpO516cMP/ArcGIS/rest/services/Historical_Earthquakes_and_Hurricanes/FeatureServer" target="_new"> https://services2.arcgis.com/No7KRrFgpO516cMP/ArcGIS/rest/services/Historical_Earthquakes_and_Hurricanes/FeatureServer</a><br>
+<a href="https://services2.arcgis.com/No7KRrFgpO516cMP/ArcGIS/rest/services/Historical_Earthquakes_and_Hurricanes/FeatureServer" target="_new"> https://services2.arcgis.com/No7KRrFgpO516cMP/ArcGIS/rest/services/Historical_Earthquakes_and_Hurricanes/FeatureServer</a><br><br>
 City of Philadelphia ArcGIS Server Rest Service Directory
 <a href="http://gis.phila.gov/arcgis/rest/services/PhilaGov" target="_new"> http://gis.phila.gov/arcgis/rest/services/PhilaGov</a>
